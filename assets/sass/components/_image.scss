@@ -58,4 +58,10 @@
 				width: 100%;
 			}
 		}
+
+		&.story {
+			img {
+				max-height: 315px !important;
+			}
+		}
 	}
